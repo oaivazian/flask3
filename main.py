@@ -43,7 +43,6 @@ def scrape_restaurants(neighborhood, cuisine):
 neighborhoods = [
     "Alphabet City",
     "Battery Park",
-    # ... (other neighborhoods) ...
     "West Village",
     "Yorkville"
 ]
